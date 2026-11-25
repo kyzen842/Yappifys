@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795420205966,
+      "tag": "0000_profiles_and_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795420224082,
+      "tag": "0001_onboarding_and_profile_media",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795420293961,
+      "tag": "0002_admin_panel",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1795420404477,
+      "tag": "0003_realtime_chat",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1795420424105,
+      "tag": "0004_hq_owner_platform_admin",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1795420432183,
+      "tag": "0005_chat_media_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1795420439994,
+      "tag": "0006_changelog_bot_posts",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1795420493489,
+      "tag": "0007_owner_badge_for_platform_owner",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1795421418444,
+      "tag": "0008_friends_presence_calls_mentions",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1795481028940,
+      "tag": "0009_yappify_partners",
+      "breakpoints": true
+    }
+  ]
+}
